@@ -9,7 +9,7 @@ Introduction
 File Subsystem is responsible for providing the user methods and apis to open/read/write/close and other file related operations.
 All the file handling related system calls are provided by the file subsystem.
 
-You need to know atleasr the following operations for a better understadind of the file subsystem.
+You need to know atleast the following operations for a better understanding of the file subsystem.
 
 ======
 mkfs()
